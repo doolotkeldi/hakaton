@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.texts {
+    background-image: url(../../assets/yellow.png);
+    width: 1280px;
+    height: 700px;
+    padding-top: 7rem;
+    padding-left: 4rem;
+}
+.text-h5 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;   
+    color: #FFFFFF;
+    margin-top: 1.5rem;
+}
+.texth1 {
+    font-size: 78px;
+    font-weight: 1000;
+    line-height: 94px;
+    color: #FFFFFF;
+    margin-top: 1.5rem;
+}
+.texth4 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 47px;
+    margin-top: 1.5rem;
+    color: #FFFFFF;
+}
+.btn-bl {
+    width: 180px;
+    height: 41px;
+    top: 394px;
+    padding: 16 72 16 72;
+    gap: 12px;
+    border-radius: 8px;  
+    background-color: #FFFFFF; 
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 29px;
+    margin-top: 1rem;
+    color: #3C4242;
+
+}
