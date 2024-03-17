@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text {
+    background-image: url(../../assets/blue.jpg);
+    width: 1280px;
+    height: 716px;
+    padding-top: 7rem;
+    padding-left: 4rem;
+}
+.texth5 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;   
+    color: #FFFFFF;
+    margin-top: 1.5rem;
+}
+.text-h1 {
+    font-size: 78px;
+    font-weight: 1000;
+    line-height: 94px;
+    color: #FFFFFF;
+    margin-top: 1.5rem;
+}
+.text-h4 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 47px;
+    margin-top: 1.5rem;
+    color: #FFFFFF;
+}
+.btnbl {
+    width: 180px;
+    height: 41px;
+    top: 394px;
+    padding: 16 72 16 72;
+    gap: 12px;
+    border-radius: 8px;  
+    background-color: #FFFFFF; 
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 29px;
+    margin-top: 1rem;
+    color: #3C4242;
+
+}
